@@ -1,4 +1,4 @@
-## importing data
+## importing data 
 import pandas as pd
 data= pd.read_csv('E:\\assignment\\simplelinearregression\\Salary_Data.csv')
 data.head()
