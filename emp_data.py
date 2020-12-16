@@ -1,5 +1,5 @@
 ## importing data
-import pandas as pd
+import pandas as pd 
 data= pd.read_csv('E:\\assignment\\simplelinearregression\\emp_data.csv')
 data.head()
 data.info()
